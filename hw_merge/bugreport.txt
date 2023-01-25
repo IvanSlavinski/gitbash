@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 1.Environment
 2.Title
 3.STR
@@ -6,3 +7,14 @@
 6.Attachment
 7.Severity
 8.Priority
+=======
+ID
+Environment
+Title
+STR
+ER
+AR
+Attachment
+Severity
+Priority
+>>>>>>> main
