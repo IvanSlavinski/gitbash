@@ -164,4 +164,17 @@ slavi@LAPTOP-JRO935PT MINGW64 ~
 ]
 
 :: 2) Написать скрипт который выполнит автоматически пункты 3, 4, 5, 6, 7, 8, 13
+$ cat >> script.sh
+    #!/bin/bash
 
+    cd bash_homework/
+    mkdir catalogue0 catalogue1 catalogue2
+    cd catalogue0
+    touch file1.txt file2.txt file3.txt
+    touch file1.json file2.json
+    mkdir catalogue1 catalogue2 catalogue3
+    ls -la
+    mv catalogue0/file1.json catalogue1
+    mv catalogue0/file2.json catalogue1
+
+$ ./script.sh
