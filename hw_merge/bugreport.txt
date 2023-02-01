@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 1.Environment
 2.Title
 3.STR
@@ -9,14 +8,3 @@
 8.Priority
 9.Comment
 10.Assignee
-=======
-ID
-Environment
-Title
-STR
-ER
-AR
-Attachment
-Severity
-Priority
->>>>>>> main
