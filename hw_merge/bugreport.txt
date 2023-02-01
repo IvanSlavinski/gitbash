@@ -6,4 +6,5 @@
 6.Attachment
 7.Severity
 8.Priority
-
+9.Comment
+10.Assignee
